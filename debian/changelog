@@ -1,0 +1,16 @@
+libqbit-class-perl (0.2) saucy; urgency=low
+
+  * Fixed build dependses
+
+  * Fixed architecture of package
+
+  * Version 0.1
+
+  * Added basic tests
+
+  * Debianize
+
+  * Initial commit
+
+ -- Sergei Svistunov <sergei-svistunov@yandex.ru>  Sat, 31 Aug 2013 14:58:30 +0400
+

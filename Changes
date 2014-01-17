@@ -1,0 +1,47 @@
+==================================================
+Changes from 2012-08-31 00:00:00 +0000 to present.
+==================================================
+
+----------------------------------------
+version 0.2 at 2013-08-31 10:58:30 +0000
+----------------------------------------
+
+  Change: abf3efbed866d2e4ee4b93ad5936e53c90574f8a
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-31 14:58:17 +0000
+
+    Fixed build dependses 
+
+  Change: 3699bc4d199568ba603e4cc2507fdd2dd201e359
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-31 09:34:15 +0000
+
+    Fixed architecture of package 
+
+  Change: d60c97f4135e2a093671fe0c4fbc052c856a298b
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-31 09:32:36 +0000
+
+    Version 0.1 
+
+  Change: 00d0bae267ae5b2b5487f5f754b635807360275f
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-30 20:16:31 +0000
+
+    Added basic tests 
+
+  Change: e00c71317c4c2cc7fa00295a08c36082253b650f
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-30 19:52:00 +0000
+
+    Debianize 
+
+  Change: e45b21ba3ba3061a13ebc299866818e5c7029b42
+  Author: Sergei Svistunov <sergei-svistunov@yandex.ru>
+  Date : 2013-08-26 09:50:48 +0000
+
+    Initial commit 
+
+================
+End of releases.
+================
